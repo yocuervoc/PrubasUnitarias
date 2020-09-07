@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`es hora de la snapshot  test de snapshot 1`] = `
+Object {
+  "gender": "Male",
+  "id": 1,
+  "name": "Rick Sanchez",
+  "species": "Human",
+  "status": "Alive",
+}
+`;
+
+exports[`es hora de la snapshot excepciones de snapshot  1`] = `
+Object {
+  "id": Any<Number>,
+  "name": "Yonatan Cuervo",
+}
+`;
